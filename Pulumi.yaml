@@ -1,0 +1,9 @@
+name: network
+runtime: java
+description: Creates OKE required subnets per region with Gradle builds
+# plugins:
+#   providers:
+#     name: oci
+pulumi:disable-default-providers:
+  oci
+
