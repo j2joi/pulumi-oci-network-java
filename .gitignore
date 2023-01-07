@@ -16,3 +16,4 @@ kubeconfig*
 Pulumi.*.yaml
 oci-stack-statefile
 **/build/*
+app/build/*
